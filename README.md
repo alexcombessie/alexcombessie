@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🐥 I’m currently working as a R&D Engineer at [Dataiku](https://dataiku.com/)
-- 💬 Ask me anything about `NLP`, `Time Series` and `MLOps`
+- 💬 Ask me anything about `NLP`, `Time Series` and all things `Machine Learning`
 - 💌 Find me on [Twitter](https://twitter.com/alexcombessie) and [LinkedIn](https://www.linkedin.com/in/alexcbs/).
 
 Stats:
