@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🐥 I’m currently working as a R&D Engineer at [Dataiku](https://dataiku.com/)
+- 💬 Ask me anything about `NLP`, `Time Series` and `MLOps`
+- 💌 Find me on [Twitter](https://twitter.com/alexcombessie) and [LinkedIn](https://www.linkedin.com/in/alexcbs/).
+
+Stats:
+
+[![alexcombessie's github stats](https://github-readme-stats.vercel.app/api?username=alexcombessie&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **alexcombessie/alexcombessie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
