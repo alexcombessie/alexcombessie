@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🐥 I’m currently working as a software engineer at [Dataiku](https://dataiku.com/)
-- 🏃 I believe in trying to do hard things & building bridges between unexpected places
-- 💬 Ask me anything about `NLP`, `Time Series` and all things `Machine Learning`
+- 🐤 I am currently working as a software engineer at [Dataiku](https://dataiku.com/)
+- 🌁 I believe in building bridges between unexpected places
+- 🏃 I like to try hard things and learn along the way
+- 💬 Ask me anything about `NLP`, `Time Series` and all things `AI`
 - 💌 Find me on [Twitter](https://twitter.com/alexcombessie) and [LinkedIn](https://www.linkedin.com/in/alexcbs/).
 
 Stats:
