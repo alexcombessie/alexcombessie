@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🐥 I’m currently working as a R&D Engineer at [Dataiku](https://dataiku.com/)
+- 🐥 I’m currently working as a software engineer at [Dataiku](https://dataiku.com/)
+- 🏃 I believe in trying to do hard things & building bridges between unexpected places
 - 💬 Ask me anything about `NLP`, `Time Series` and all things `Machine Learning`
 - 💌 Find me on [Twitter](https://twitter.com/alexcombessie) and [LinkedIn](https://www.linkedin.com/in/alexcbs/).
 
