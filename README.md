@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🐤 ... I am currently building [Giskard AI](https://giskard.ai/), a quality management platform for AI 
-- 🌁 ... I believe in building bridges between unexpected places
+- 🌁 ... I believe in building bridges between places
 - 🏃 ... I like to try hard things and learn along the way
 - 💬 ... Ask me anything about `NLP`, `Time Series` and all things `AI`
 - 💌 ... Find me on [Twitter](https://twitter.com/alex_combessie) and [LinkedIn](https://www.linkedin.com/in/alexcombessie/).
