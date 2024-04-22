@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🐤 ... I am currently building [Giskard](https://giskard.ai/), an open-source Quality Assurance platform for ML models.
+- 🐤 ... I am currently building [Giskard](https://giskard.ai/), an open-source Testing platform for AI models.
 - 🌁 ... I believe in building bridges between places
 - 🏃 ... I like to try hard things and learn along the way
 - 💬 ... Ask me anything about `NLP`, `Time Series` and all things `AI`
