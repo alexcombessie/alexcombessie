@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🐤 ... I am currently building [Giskard](https://giskard.ai/), a holistic Testing platform for AI systems.
+- 🐤 ... I am currently building [Giskard](https://giskard.ai/), a holistic Testing platform for LLM Agents.
 - 🌁 ... I believe in building bridges between places
 - 🏃 ... I like to try hard things and learn along the way
 - 💬 ... Ask me anything about `NLP`, `Time Series` and all things `AI`
